@@ -14,7 +14,7 @@ namespace TetrisGui
         static void Main(string[] args)
         {
             Turtle.Show();
-            Turtle.Move(30);
+            Turtle.Move(50);
             Turtle.TurnLeft();
             Turtle.Move(50);
         }
